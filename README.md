@@ -8,3 +8,6 @@ https://medium.com/@spreadstreet/a-super-simple-cryptocurrency-arbitrage-spreads
 
 ### Unix password manager
 https://www.passwordstore.org/
+
+### IT Department Considerations for M&A Integrations
+https://www.agileit.com/news/it-department-considerations-for-ma-integrations/
